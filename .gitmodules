@@ -3,4 +3,4 @@
 	url = https://github.com/whitequark/libfx2
 [submodule "docs/archive"]
 	path = docs/archive
-	url = https://github.com/GlasgowEmbedded/archive
+	url = https://github.com/gatecat/glasgow-archive
